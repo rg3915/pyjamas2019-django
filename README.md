@@ -10,7 +10,7 @@ https://pyjamas.live
 
 ## Tutorial
 
-[tutorial aqui](#tutorial.md)
+[tutorial aqui](tutorial.md)
 
 ## Como roda o projeto?
 
