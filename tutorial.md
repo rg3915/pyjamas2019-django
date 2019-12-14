@@ -186,6 +186,8 @@ users.count()
 users.first()
 ```
 
+[Live 95 - Live de Python](https://www.youtube.com/watch?v=cyxky2QJlwg)
+
 ## FBV - Function Based Views
 
 https://www.youtube.com/watch?v=2qZcPb8ZWQA
@@ -205,11 +207,16 @@ https://www.youtube.com/watch?v=YuKdwIhJysU
 
 
 
-
 ## Links
 
 http://pythonclub.com.br
+
 https://simpleisbetterthancomplex.com
+
 https://www.djangoproject.com
+
 https://docs.djangoproject.com/en/3.0/releases/3.0
+
+[Live de Python #97 python-decouple com Henrique Bastos](https://www.youtube.com/watch?v=zYJGpLw5Wv4)
+
 
