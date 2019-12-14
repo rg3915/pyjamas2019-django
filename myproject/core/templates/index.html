@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,13 +6,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Pyjamas 2019 - Django</title>
 
-  <style>
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+
+  <!-- <style>
     h1 {
       font-family: sans-serif
     }
-  </style>
+  </style> -->
 </head>
 <body>
   <h1>Pyjamas Conf 2019</h1>
+
+  <ul>
+    {% for talk in talks %}
+      <li>{{ talk.title }}</li>
+    {% endfor %}
+  </ul>
 </body>
 </html>
